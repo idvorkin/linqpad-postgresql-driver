@@ -1,5 +1,8 @@
 obj/
 bin/
 packages/
+.tools/
+.vs/
+DynamicLinqPadPostgreSqlDriver.Shared/LinqToDB.Templates
 *.suo
 *.user
